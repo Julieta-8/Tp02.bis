@@ -93,3 +93,4 @@ Z:\2025\Programación\BD_Presentaciones2.0\obj\Debug\net8.0\TP2_Usoz.RazorAssemb
 Z:\2025\Programación\BD_Presentaciones2.0\obj\Debug\net8.0\TP2_Usoz.dll
 Z:\2025\Programación\BD_Presentaciones2.0\obj\Debug\net8.0\refint\TP2_Usoz.dll
 Z:\2025\Programación\BD_Presentaciones2.0\obj\Debug\net8.0\TP2_Usoz.pdb
+Z:\2025\Programación\BD_Presentaciones2.0\obj\Debug\net8.0\TP2_Usoz.sourcelink.json

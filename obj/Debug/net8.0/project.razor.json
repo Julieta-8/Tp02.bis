@@ -19329,11 +19329,6 @@
   "RootNamespace": "TP2_Usoz",
   "Documents": [
     {
-      "FilePath": "z:\\2025\\Programación\\BD_Presentaciones2.0\\TP02\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "TP02\\Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "z:\\2025\\Programación\\BD_Presentaciones2.0\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -19349,28 +19344,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "z:\\2025\\Programación\\BD_Presentaciones2.0\\TP02\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "TP02\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "z:\\2025\\Programación\\BD_Presentaciones2.0\\Views\\Home\\infoDatosFamiliares.cshtml",
       "TargetPath": "Views\\Home\\infoDatosFamiliares.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "z:\\2025\\Programación\\BD_Presentaciones2.0\\TP02\\Views\\Home\\Index.cshtml",
-      "TargetPath": "TP02\\Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "z:\\2025\\Programación\\BD_Presentaciones2.0\\TP02\\Views\\_ViewStart.cshtml",
-      "TargetPath": "TP02\\Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "z:\\2025\\Programación\\BD_Presentaciones2.0\\TP02\\Views\\_ViewImports.cshtml",
-      "TargetPath": "TP02\\Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
