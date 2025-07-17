@@ -1,0 +1,21 @@
+@using GrupoPresentacionWeb.Models
+{
+    ViewData["Title"] = "Datos Familiares";
+ 
+}
+<div>
+<h2>Familiares de @ViewBag.IdUsuario</h2>
+</div>
+@foreach (DatoFamiliar fam in @ViewBag.DatosFamiliares)
+{
+    <div style="margin-bottom: 10px;">
+      <p>Parentesco: @fam.parentesco</p>
+        <p>Nombre:@fam.nombre</p>
+        <p>Apellido: @fam.apellido</p>
+        <p>Descripción: @fam.descripción</p>
+        <p>Id: @fam.Id</p>
+        <p>IdUsuario: @fam.IdUsuario</p>
+    </div>
+}
+
+<a href='@Url.Action("MostrarDatosPersonales","Home")'>← Volver a la página principal</a>

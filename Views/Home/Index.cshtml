@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Grupo Index";
+ 
+}
+
+<div>
+    <h1>Usoz²</h1>
+    <h2> Log in</h2>
+    <form action = '@Url.Action("Login", "Home")' method = "POST">
+        Ingrese el Email
+        <input type="email" name ="Email" />
+        Ingrese la contraseña
+        <input type="password" name = "Contraseña"/>
+        <input type="submit" value="Login"/>
+    </form>
+
+</div>
+
+
+
