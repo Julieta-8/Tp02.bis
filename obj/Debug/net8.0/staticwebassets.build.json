@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VGs2C3iy35/TRwdbro4QPAS0pZwBj9lIXekKzwRt3Lo=",
+  "Hash": "WwfyTfoQ9E2Om2wJO1NjhZuf1gAN4vodQsRSWabGNhQ=",
   "Source": "TP2_Usoz",
   "BasePath": "_content/TP2_Usoz",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TP2_Usoz\\wwwroot",
       "Source": "TP2_Usoz",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\css\\site.css",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\css\\site.css",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\favicon.ico",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\favicon.ico",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,12 +55,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\foro de perfil1.jpg",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\img\\bri.jpg",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
-      "RelativePath": "foro de perfil1.jpg",
+      "RelativePath": "img/bri.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,15 +71,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\foro de perfil1.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\bri.jpg"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\foto de perfil2.jpg",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\img\\juli.jpg",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
-      "RelativePath": "foto de perfil2.jpg",
+      "RelativePath": "img/juli.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\foto de perfil2.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\juli.jpg"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\js\\site.js",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\js\\site.js",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\logo.jpg",
+      "Identity": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\logo.jpg",
       "SourceId": "TP2_Usoz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48799592\\Downloads\\TP2_Usoz (2)\\TP2_Usoz\\wwwroot\\",
+      "ContentRoot": "Z:\\2025\\BD_Presentaciones2.0\\wwwroot\\",
       "BasePath": "_content/TP2_Usoz",
       "RelativePath": "logo.jpg",
       "AssetKind": "All",

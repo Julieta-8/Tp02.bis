@@ -2492,11 +2492,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\2025\\Programación\\BD_Presentaciones2.0\\TP2_Usoz.csproj",
+      "projectUniqueName": "Z:\\2025\\BD_Presentaciones2.0\\TP2_Usoz.csproj",
       "projectName": "TP2_Usoz",
-      "projectPath": "Z:\\2025\\Programación\\BD_Presentaciones2.0\\TP2_Usoz.csproj",
+      "projectPath": "Z:\\2025\\BD_Presentaciones2.0\\TP2_Usoz.csproj",
       "packagesPath": "C:\\Users\\48799592\\.nuget\\packages\\",
-      "outputPath": "Z:\\2025\\Programación\\BD_Presentaciones2.0\\obj\\",
+      "outputPath": "Z:\\2025\\BD_Presentaciones2.0\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

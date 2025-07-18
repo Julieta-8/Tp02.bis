@@ -17,8 +17,8 @@ public static Usuario LevantarUsuario(string Contraseña, string Email)
 Usuario u = null;
 using (SqlConnection connection = new SqlConnection(_connectionString))
 {
-string query = "SELECT Id FROM Usuario WHERE Id = @Contraseña && @Email";
-u = connection. QueryFirstOrDefault<Usuario>(query, new { Contraseña = Contraseña, Email = Email});
+string query = "SELECT * FROM Usuario WHERE Email = @Email AND Contraseña = @Contraseña";
+u = connection.QueryFirstOrDefault<Usuario>(query, new { Email = Email, Contraseña = Contraseña });
 }
 return u;
 }
@@ -33,7 +33,7 @@ return u;
         Usuario miusuario = null;
         using (SqlConnection connection = new SqlConnection(_connectionString))
         {
-            string query = "SELECT * FROM DatoIntereses WHERE IdUsuario = @pIdUsuario";
+            string query = "SELECT * FROM Usuario WHERE Id = @pIdUsuario";
              miusuario = connection.QueryFirstOrDefault<Usuario>(query, new { pIdUsuario = idUsuario });
             return miusuario;
         }

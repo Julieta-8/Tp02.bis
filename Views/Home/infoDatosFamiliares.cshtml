@@ -3,8 +3,11 @@
     ViewData["Title"] = "Datos Familiares";
  
 }
-<div>
-<h2>Familiares de @ViewBag.IdUsuario</h2>
+<header>
+    <h1>ORT</h1>
+</header>
+<div class = "Familia">
+<h2></h2>
 </div>
 @foreach (DatoFamiliar fam in @ViewBag.DatosFamiliares)
 {
@@ -18,4 +21,6 @@
     </div>
 }
 
-<a href='@Url.Action("MostrarDatosPersonales","Home")'>← Volver a la página principal</a>
+<a href='@Url.Action("MostrarDatosPersonales","Home")'>Volver a la página principal</a>
+
+<a href='@Url.Action("Logout","Home")'>Salir </a>

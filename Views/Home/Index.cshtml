@@ -3,15 +3,18 @@
  
 }
 
-<div>
-    <h1>Usoz²</h1>
+<header>
+    <h1>ORT</h1>
+</header>
+<div class = "login">
+   
     <h2> Log in</h2>
     <form action = '@Url.Action("Login", "Home")' method = "POST">
         Ingrese el Email
         <input type="email" name ="Email" />
         Ingrese la contraseña
         <input type="password" name = "Contraseña"/>
-        <input type="submit" value="Login"/>
+        <input class = "submit" type="submit" value="Login"/>
     </form>
 
 </div>

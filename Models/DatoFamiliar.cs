@@ -1,4 +1,6 @@
 using Dapper;
+using Newtonsoft.Json;
+using Microsoft.Data.SqlClient;
 namespace GrupoPresentacionWeb.Models;
 public class DatoFamiliar{
 
@@ -9,6 +11,7 @@ public string descripción {get; private set;}
 public int Id{ get; private set; } 
 public int IdUsuario { get; private set; }
 
+  public DatoFamiliar() { }
 
 public DatoFamiliar(string nombre, string apellido, string parentesco,string descripción,int Id,int IdUsuario ){
 this.nombre = nombre;

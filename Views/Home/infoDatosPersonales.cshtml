@@ -2,17 +2,25 @@
     ViewData["Title"] = "Datos Personales";
     
 }
-<div>
+<header>
+    <h1>ORT</h1>
+</header>
+<div class = "Personal">
 <h2>Datos personales</h2>
+   <img src="@ViewBag.Usuario.Foto" alt="Foto de perfil" class="foto-perfil" />
 
 <p>Nombre: @ViewBag.Usuario.Nombre</p>
 <p>Apellido: @ViewBag.Usuario.Apellido</p>
 <p>Edad: @ViewBag.Usuario.ObtenerEdad()</p>
 
-<a href='@Url.Action("Index","Home")'>← Volver a la página principal</a>
 
-    <a href='@Url.Action("MostrarDatosFamiliares","Home")'>- Ver informaciòn familiar</a>
+<section><a href='@Url.Action("Logout","Home")'>Volver a la página principal</a>
+
+    <a href='@Url.Action("MostrarDatosFamiliares","Home")'> Ver informaciòn familiar</a>
 
 
-        <a href='@Url.Action("MostrarDatosInteres","Home")'>- Ver Interes</a>
+        <a href='@Url.Action("MostrarDatosInteres","Home")'> Ver Interes</a>
+
+        
+
 </div>
